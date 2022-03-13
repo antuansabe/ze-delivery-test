@@ -27,6 +27,3 @@ npm run serve
 npm run build
 ```
 # ze-delivery-test
-
-# ze-delivery-test
-# ze-delivery-test
